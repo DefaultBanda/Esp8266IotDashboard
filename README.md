@@ -47,11 +47,14 @@ This project uses an ESP8266 to create a real-time IoT dashboard. The dashboard 
 4. **3D Printer Status:** Displays job name, progress, and a graphical progress bar for ongoing prints.
 
 ### Preview
-![Dashboard Preview](https://via.placeholder.com/800x400?text=ESP8266+IoT+Dashboard)
+![IOTD](https://github.com/user-attachments/assets/8cf01c4a-1f1b-44c0-803f-4ba0339a124e)
+![IMG_4153](https://github.com/user-attachments/assets/3afcce2d-c2e4-43a1-afd3-51cff47691b8)
+![IMG_4154](https://github.com/user-attachments/assets/6846f702-bdcc-453a-84aa-5dea9e7f11e9)
+
 
 ---
 
-## Wiring Diagram
+## Wiring Diagram ONLY IF YOUR ESP8266 DOES NOT HAVE A USB PORT
 
 | ESP8266 Pin | Description         |
 |-------------|---------------------|
