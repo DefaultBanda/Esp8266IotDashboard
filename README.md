@@ -51,6 +51,9 @@ This project uses an ESP8266 to create a real-time IoT dashboard. The dashboard 
 ![IMG_4153](https://github.com/user-attachments/assets/3afcce2d-c2e4-43a1-afd3-51cff47691b8)
 ![IMG_4154](https://github.com/user-attachments/assets/6846f702-bdcc-453a-84aa-5dea9e7f11e9)
 
+https://github.com/user-attachments/assets/fe3df28d-7841-4d9c-a58e-32409727b064
+
+
 
 ---
 
