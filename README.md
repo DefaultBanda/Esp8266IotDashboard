@@ -63,7 +63,7 @@ https://github.com/user-attachments/assets/fe3df28d-7841-4d9c-a58e-32409727b064
 |-------------|---------------------|
 | VCC         | Connect to 3.3V    |
 | GND         | Connect to Ground  |
-| D4          | Connect to LED or Debug Pin (if required) |
+| D4          | Connect to LED or Debug Pin |
 
 ---
 
@@ -71,9 +71,9 @@ https://github.com/user-attachments/assets/fe3df28d-7841-4d9c-a58e-32409727b064
 
 Ensure these lines are updated in the code:
 ```cpp
-const char* ssid = "YourWiFiSSID";
-const char* password = "YourWiFiPassword";
-const String weatherApiKey = "YourOpenWeatherMapAPIKey";
-const String stockApiKey = "YourAlphaVantageAPIKey";
-const String octoPrintApiKey = "YourOctoPrintAPIKey";
-const String octoPrintUrl = "http://YourOctoPrintIP:Port/api/job";
+ssid = "YourWiFiSSID";
+password = "YourWiFiPassword";
+weatherApiKey = "YourOpenWeatherMapAPIKey";
+stockApiKey = "YourAlphaVantageAPIKey";
+octoPrintApiKey = "YourOctoPrintAPIKey";
+octoPrintUrl = "http://YourOctoPrintIP:Port/api/job";
